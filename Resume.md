@@ -1,6 +1,6 @@
 # PABLO HERNANDEZ
-# FULL-STACK SOFTWARE ENGINEER EMAIL: pablorhernandez1@gmail.com PHONE: (510)432-0329 LOCATION:Oakland, Ca
-# LINKEDIN: prhernandez GITHUB: prh90
+## FULL-STACK SOFTWARE ENGINEER EMAIL: pablorhernandez1@gmail.com PHONE: (510)432-0329 LOCATION:Oakland, Ca
+## LINKEDIN: prhernandez GITHUB: prh90
 
 ## SUMMARY
 Tech enthusiast turned developer, motivated by the impact technology can have on all lives. Hungry to keep learning and pushing to make
@@ -52,5 +52,6 @@ YesWeCode is an initiative that works with partners to help connect 100,000 unde
 ### State Senate Recognition - Biotechnology, Don Perata Aug 2007
 As part of a science based high school I chose to study biotechnology which led to take college courses in the field and summer intern at East Bay Municipal Utility District in Oakland. The senate, cities of Oakland and Berkeley recognized me for my work to promote the science field to urban youth and make a difference in the community. I was able to show the youth that the science field was attainable by giving a presentation at an open house. I acquired the knowledge to properly create sample packages and use specific agents to conduct certain water tests.
 
-## VOLUNTEERING GenZ Systems, Volunteer/Lead Programmer, Alameda, CA 2016 - 2017
+## VOLUNTEERING
+### GenZ Systems, Volunteer/Lead Programmer, Alameda, CA 2016 - 2017
 I volunteered to help youth from ages 8‐16 learn how to code, the objective was to create a product to be released to the public after a year of work. Volunteering once a month to check in, I helped distribute work and answer questions while pair programming. The goal of the app named Time To Stretch which a simple smartphone application was developed to alert users when it was time to stretch. The app is currently available in the android store.
