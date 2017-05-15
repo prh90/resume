@@ -1,11 +1,13 @@
 # PABLO HERNANDEZ
-## FULL-STACK SOFTWARE ENGINEER EMAIL: pablorhernandez1@gmail.com PHONE: (510)432-0329 LOCATION:Oakland, Ca
-## LINKEDIN: prhernandez GITHUB: prh90
+## FULL-STACK SOFTWARE ENGINEER
+### EMAIL: pablorhernandez1@gmail.com PHONE: (510)432-0329 LOCATION:Oakland, Ca
+### LINKEDIN: prhernandez GITHUB: prh90
 
 ## SUMMARY
 Tech enthusiast turned developer, motivated by the impact technology can have on all lives. Hungry to keep learning and pushing to make
 the impossible a reality. #YesWeCode scholarship recipient who is ready to create something that will change the world.
-#SKILLS
+
+# SKILLS
 ## PROFESSIONAL:
 HTML5, JavaScript, JQuery, CSS3, Bootstrap, Ruby, SQLite, Sinatra, Rails, Rspec, Jasmine
 ## PROFICIENT:
