@@ -1,7 +1,9 @@
+<center>
 # PABLO HERNANDEZ
 ## FULL-STACK SOFTWARE ENGINEER
 ### EMAIL: pablorhernandez1@gmail.com PHONE: (510)432-0329 LOCATION:Oakland, Ca
 ### LINKEDIN: prhernandez GITHUB: prh90
+</center>
 
 ## SUMMARY
 Tech enthusiast turned developer, motivated by the impact technology can have on all lives. Hungry to keep learning and pushing to make
